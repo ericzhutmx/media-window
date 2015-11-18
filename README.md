@@ -1,5 +1,5 @@
 # media-window
-media windows retrived and filtered from json which and view, click and sort.
+media windows retrived and filtered from json which can view, click and sort.
 
 if you're watching this sample with Chrome,please disable web sercurity first. Or you won't see it.
 
